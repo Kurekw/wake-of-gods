@@ -23,6 +23,11 @@
 			
 			"waterLillies" : {
 				"name" : "Water Lilly",
+				"rmg": {
+					        "mapLimit": 8,
+					        "zoneLimit": 2,
+					        "rarity": 15
+  					},
 				"templates" : {
 					"wtlily00" : {
 						"animation" : "kelps/wtlily00",
